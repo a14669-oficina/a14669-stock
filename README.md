@@ -1,11 +1,24 @@
 <h1> EXP.A03 - PSI - M3 - EXPA03</h1>
+<h1> INTRODUÇÃO</h1>
+Programa desenvolvido em Python que utiliza funções para gerir o stock de materiais escolares de uma escola. O programa tem acesso a registo, consulta e atualização do stock de forma eficiente.
 
-O trabalho começa com um menu onde escolhe uma das opções: 1.Adicionar Material, 2.Consultar Stock, 3.Atualizar Stock, 4.Exibir Stock Geral, 5.Sair.
-Dependendo da opção, o sistema irá fazer perguntas e terá de responder. Como por exemplo:
+<h1> REQUISITOS</h1>
+  → Registar novos materiais no stock.
+  → Consultar o stock de um material específico.
+  → Atualizar a quantidade em stock (adição ou remoção).
+  → Exibir o estado geral do stock.
 
+<h1> PRINCIPAIS FUNÇÕES DO CÓDIGO</h1>
+
+  → adicionar_material() - Para registar novos materiais.
+  → consultar_stock() - Para verificar o stock de um material específico.
+  → atualizar_stock() - Para adicionar ou remover itens do stock.
+  → exibir_stock() - Para mostrar o estado geral do stock.
+
+<h1> EXECUÇÃO</h1>
   - Sistema: Insira o nome do material
-  - Utilizador: Borracha
+  - Utilizador: borracha
   - Sistema: Insira a quantidade
   - Utilizador: 2
-  - Sistema: O material Borracha foi inserido no stock com sucesso!
-<h6>OFICINA, Escola Profissional &copy; 2024</h6>
+  - Sistema: O material borracha foi colocado no stock com sucesso!
+  <h6>OFICINA, Escola Profissional &copy; 2024</h6>
