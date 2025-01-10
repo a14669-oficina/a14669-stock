@@ -4,8 +4,11 @@ Programa desenvolvido em Python que utiliza funções para gerir o stock de mate
 
 <h1> Condições</h1>
  - Registar novos materiais no stock.
+ 
  - Consultar o stock de um material específico.
+ 
  - Atualizar a quantidade em stock (adicionar ou remover).
+ 
  - Exibir o estado geral do stock.
 
 <h1> Principais Funções</h1>
