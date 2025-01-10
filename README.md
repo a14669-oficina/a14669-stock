@@ -8,3 +8,4 @@ Dependendo da opção, o sistema irá fazer perguntas e terá de responder. Como
   - Sistema: Insira a quantidade
   - Utilizador: 2
   - Sistema: O material Borracha foi inserido no stock com sucesso!
+<h6>OFICINA, Escola Profissional &copy; 2024</h6>
